@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_logo1",
+    "texture": "995b125a-2cca-4ff5-8b10-25647c4aaba8",
+    "atlas": "",
+    "rect": [
+      7,
+      10,
+      854,
+      494
+    ],
+    "offset": [
+      -3,
+      48.5
+    ],
+    "originalSize": [
+      874,
+      611
+    ]
+  }
+}
